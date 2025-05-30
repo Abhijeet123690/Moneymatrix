@@ -1,0 +1,5 @@
+cd your-repo-folder
+rm index.html app.js config.js README.md
+git add .
+git commit -m "Deleted old frontend files to switch to Next.js"
+git push origin main
